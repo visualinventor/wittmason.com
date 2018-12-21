@@ -1,8 +1,8 @@
 <?php
-$page_title     = 'The online portfolio for Web Designer and Developer Tim Watson';
+$page_title     = 'The online portfolio for Senior Product Designer Tim Watson';
 
 $og_url         = '/splash';
-$og_desc        = 'The online portfolio for Web Design and Developer Tim Watson';
+$og_desc        = 'The online portfolio for Senior Product Designer Tim Watson';
 $og_img         = 'http://wittmason.com/assets/img/wittmason/og-img-wittmason.jpg';
 
 $style          = '<style>
@@ -30,7 +30,7 @@ if (window.matchMedia("(min-width: 576px)").matches) {
   }, 6000);
 }
 </script>';
-$pageIntro      = 'Hi I\'m Tim Watson an Oklahoma City Based UX/UI Developer';
+$pageIntro      = 'Hi I\'m Tim Watson an Oklahoma City Based UX/UI Designer';
 $mainID         = '
 <div class="text-center weight-600 letter-space-2 line-height-26" style="color:#d2c98e;" data-aos="fade-down"  data-aos-duration="5000" data-aos-delay="4000">The online portfolio of<br>
   <span class="uppercase">Tim Watson</span>
