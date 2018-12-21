@@ -52,6 +52,8 @@
 -->
     <?php include($_SERVER['DOCUMENT_ROOT']."/assets/inc/head/meta.php"); ?>
     <?php if (isset ($style)){ echo $style; } ?>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,600,600i,700,700i">
 
 </head>
 
