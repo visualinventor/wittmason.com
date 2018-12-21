@@ -507,6 +507,10 @@ main{ min-height:100vh; }
 }
 
 @media all and (max-width: 575px) {
+  .side-nav .portfolio-link a:hover,
+  .side-nav .portfolio-link a:hover:after{
+    cursor: pointer;
+  }
   body{font-size:15px; line-height:22px;}
   main, menu .disciplines{
     margin-top:0px;
